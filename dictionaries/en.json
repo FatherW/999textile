@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "siteName": "999 Textile",
+    "title": "999 Textile",
+    "description": "999 Textile develops and produces fabrics for apparel and home-textile customers, with stable processes built for repeat orders."
+  },
+  "common": {
+    "skipToContent": "Skip to main content"
+  },
+  "nav": {
+    "label": "Primary",
+    "home": "Home",
+    "about": "About",
+    "products": "Products"
+  },
+  "header": {
+    "logo": "999 Textile",
+    "logoMark": "999",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu"
+  },
+  "language": {
+    "label": "Language",
+    "zh-CN": "ZH",
+    "en": "EN"
+  },
+  "footer": {
+    "tagline": "Stable textile processes for brands and mills that order again.",
+    "quickNavTitle": "Explore",
+    "contactTitle": "Contact",
+    "addressLabel": "Address",
+    "address": "China · Textile Industrial Park",
+    "phoneLabel": "Phone",
+    "phone": "+86 000 0000 0000",
+    "emailLabel": "Email",
+    "email": "contact@999textile.example",
+    "copyright": "© {year} 999 Textile. All rights reserved."
+  },
+  "home": {
+    "eyebrow": "999 TEXTILE",
+    "title": "Reliable cloth, woven with care",
+    "subtitle": "We develop and produce fabrics that join the steadiness of traditional mills with modern quality control, for apparel and home-textile partners who need a supplier they can keep.",
+    "cta": "About us",
+    "secondaryCta": "View products",
+    "highlightsTitle": "How we work",
+    "highlights": [
+      {
+        "title": "Stable process",
+        "body": "From yarn to finished cloth, key steps stay traceable so hand-feel and shade hold from lot to lot."
+      },
+      {
+        "title": "Clear ranges",
+        "body": "Production is organized around cotton, performance, and home textiles, so new series can be added without rebuilding the catalog."
+      },
+      {
+        "title": "Repeat supply",
+        "body": "We work with brands and garment factories on lead time, communication, and reorders, not one-off shipments."
+      }
+    ]
+  },
+  "about": {
+    "title": "About",
+    "description": "999 Textile supplies fabrics for apparel and home textiles. Shop-floor experience is written into standards, so each bulk lot stays close to the sample a customer has already approved.",
+    "points": [
+      {
+        "title": "From sample to bulk",
+        "body": "Sampling, approval, and production are managed in stages, so color, weight, and width shift less when an order scales up."
+      },
+      {
+        "title": "Quality before volume",
+        "body": "Inspection records stay with the lot. Cloth that fails is handled before it leaves, not in the customer’s next process."
+      },
+      {
+        "title": "Built for ongoing orders",
+        "body": "Pages and the product catalog are structured so a new series can be added later without changing the site’s shape."
+      }
+    ]
+  },
+  "products": {
+    "title": "Products",
+    "description": "These are the starting ranges. Specifications, color cards, and stock details can be added later as their own pages.",
+    "note": "This is the display structure. Detailed product pages can extend this section.",
+    "items": [
+      {
+        "name": "Cotton fabrics",
+        "summary": "Cotton and cotton blends for shirting, casualwear, and foundational garments."
+      },
+      {
+        "name": "Performance fabrics",
+        "summary": "Developed around breathability, structure, and easy care for uniforms and outdoor use."
+      },
+      {
+        "name": "Home textiles",
+        "summary": "Bedding and soft-furnishing cloth, with stable width, colorfastness, and patterns that can be reordered."
+      }
+    ]
+  }
+}
